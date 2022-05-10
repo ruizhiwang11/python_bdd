@@ -1,0 +1,271 @@
+1651653137658	geckodriver	INFO	Listening on 127.0.0.1:56639
+1651653137663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyem3vh"
+1651653138696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyem3vh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52183/devtools/browser/6a539e6a-f305-494c-a348-3c98ec928cf7
+1651653139822	Marionette	INFO	Listening on port 38123
+Read port: 38123
+1651653139922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651653139953	geckodriver	INFO	Listening on 127.0.0.1:42795
+1651653140456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletujTRk"
+1651653141119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletujTRk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34025/devtools/browser/840f7e79-6dbe-4d58-98a8-775a0bb630a3
+1651653142395	Marionette	INFO	Listening on port 46437
+Read port: 46437
+1651653142469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651653159852	Marionette	INFO	Stopped listening on port 46437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651653161937	Marionette	INFO	Stopped listening on port 38123
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651653164318	geckodriver	INFO	Listening on 127.0.0.1:54129
+1651653164322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGrhUWm"
+1651653165011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGrhUWm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60049/devtools/browser/c96a3d29-d8f3-4d8e-bb15-353b5e0c041d
+1651653165900	Marionette	INFO	Listening on port 45127
+Read port: 45127
+1651653165936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651653165951	geckodriver	INFO	Listening on 127.0.0.1:50119
+1651653166456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejaq97a"
+1651653167156	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejaq97a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53017/devtools/browser/9d72fd09-a2d0-4c37-bb64-a94249108f65
+1651653168050	Marionette	INFO	Listening on port 46753
+Read port: 46753
+1651653168070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653249899	Marionette	INFO	Stopped listening on port 46753
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651653251373	Marionette	INFO	Stopped listening on port 45127
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651653318524	geckodriver	INFO	Listening on 127.0.0.1:55709
+1651653318527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebzQISn"
+1651653319168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebzQISn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40045/devtools/browser/35cd8099-314e-4985-a523-5936cf3aa666
+1651653320065	Marionette	INFO	Listening on port 36439
+Read port: 36439
+1651653320153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653320616	geckodriver	INFO	Listening on 127.0.0.1:52207
+1651653321128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHKzbSD"
+1651653321839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHKzbSD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44813/devtools/browser/47d9447c-5d02-4d4e-aaac-565162333138
+1651653322777	Marionette	INFO	Listening on port 44303
+Read port: 44303
+1651653322867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653339988	Marionette	INFO	Stopped listening on port 44303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651653341328	Marionette	INFO	Stopped listening on port 36439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651653342845	geckodriver	INFO	Listening on 127.0.0.1:38117
+1651653342849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevx7rDR"
+1651653343451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevx7rDR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39423/devtools/browser/39ae37cd-52fc-4f78-9fbe-5e06fe899222
+1651653344368	Marionette	INFO	Listening on port 39199
+Read port: 39199
+1651653344498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653344938	geckodriver	INFO	Listening on 127.0.0.1:35235
+1651653345448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefilqvg"
+1651653346106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefilqvg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44215/devtools/browser/78229ab1-cea4-4e57-8b42-075c929f6554
+1651653347005	Marionette	INFO	Listening on port 41473
+Read port: 41473
+1651653347061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653397007	geckodriver	INFO	Listening on 127.0.0.1:41659
+1651653397011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYAu1bk"
+1651653397652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYAu1bk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38549/devtools/browser/b54c5a22-89c7-4ff9-a12f-5236cc6740a3
+1651653398820	Marionette	INFO	Listening on port 43995
+Read port: 43995
+1651653398974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653399423	geckodriver	INFO	Listening on 127.0.0.1:55355
+1651653399930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2VpO0z"
+1651653400635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2VpO0z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51167/devtools/browser/7281d276-8636-42e8-b9df-9453e8c8286d
+1651653401841	Marionette	INFO	Listening on port 34579
+Read port: 34579
+1651653401979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653449043	Marionette	INFO	Stopped listening on port 34579
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651653451138	Marionette	INFO	Stopped listening on port 43995
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651653452767	Marionette	INFO	Stopped listening on port 41473
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651653454413	Marionette	INFO	Stopped listening on port 39199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651653456125	geckodriver	INFO	Listening on 127.0.0.1:41075
+1651653456129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelxOeDQ"
+1651653456745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelxOeDQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60713/devtools/browser/53d25535-45a5-456d-80a5-0c1563def9d5
+1651653457709	Marionette	INFO	Listening on port 34875
+Read port: 34875
+1651653457748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653458257	geckodriver	INFO	Listening on 127.0.0.1:54931
+1651653458770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezpXZEx"
+1651653459477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezpXZEx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45557/devtools/browser/c65650fd-3c15-487f-9532-8f27e90f2e65
+1651653460353	Marionette	INFO	Listening on port 38753
+Read port: 38753
+1651653460383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653493291	Marionette	INFO	Stopped listening on port 38753
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651653495014	Marionette	INFO	Stopped listening on port 34875
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651653496802	geckodriver	INFO	Listening on 127.0.0.1:34971
+1651653496806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTFE4Ki"
+1651653497482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTFE4Ki/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59669/devtools/browser/50f9e34e-1fd9-48eb-a74f-1ea8869ba3fa
+1651653498367	Marionette	INFO	Listening on port 33099
+Read port: 33099
+1651653498432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653498995	geckodriver	INFO	Listening on 127.0.0.1:39029
+1651653499498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePgpN7w"
+1651653500173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePgpN7w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56267/devtools/browser/dd3f368f-d13c-40fd-bf78-5573b51c7754
+1651653501077	Marionette	INFO	Listening on port 44807
+Read port: 44807
+1651653501133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651653506834	Marionette	INFO	Stopped listening on port 44807
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651653507831	Marionette	INFO	Stopped listening on port 33099
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651741581187	geckodriver	INFO	Listening on 127.0.0.1:49859
+1651741581690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqC4zHn"
+1651741582798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqC4zHn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45495/devtools/browser/84ebe48e-22e8-46a3-a37b-70f25a5e22a0
+1651741584021	Marionette	INFO	Listening on port 37705
+Read port: 37705
+1651741584106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651741584783	geckodriver	INFO	Listening on 127.0.0.1:39575
+1651741585296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegYZ7t6"
+1651741585996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegYZ7t6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37819/devtools/browser/1861a109-d4c2-44ba-a93c-b1ae79a05747
+1651741587103	Marionette	INFO	Listening on port 43387
+Read port: 43387
+1651741587212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651741589665	Marionette	INFO	Stopped listening on port 43387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651741590749	Marionette	INFO	Stopped listening on port 37705
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651742338680	geckodriver	INFO	Listening on 127.0.0.1:42901
+1651742338684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqK83dc"
+1651742339302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqK83dc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33667/devtools/browser/df8df730-e793-4ea5-a4e6-a677a08dc8f2
+1651742340197	Marionette	INFO	Listening on port 45109
+Read port: 45109
+1651742340323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651742357484	Marionette	INFO	Stopped listening on port 45109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651742360356	geckodriver	INFO	Listening on 127.0.0.1:47737
+1651742360360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledbppZq"
+1651742360987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledbppZq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57089/devtools/browser/6437f94c-48f6-4a7e-8bd7-81336b0b1df6
+1651742361839	Marionette	INFO	Listening on port 35251
+Read port: 35251
+1651742361872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651743194863	geckodriver	INFO	Listening on 127.0.0.1:47937
+1651743194867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesysEcp"
+1651743195613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesysEcp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41059/devtools/browser/f40d03ee-7752-4033-a19f-591f95a6596d
+1651743196747	Marionette	INFO	Listening on port 44625
+Read port: 44625
+1651743196794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651743241457	geckodriver	INFO	Listening on 127.0.0.1:44709
+1651743241461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezsWnfb"
+1651743242218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezsWnfb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57651/devtools/browser/c0712d98-a9f8-4541-ad9a-182f2ad6acf8
+1651743243471	Marionette	INFO	Listening on port 38789
+Read port: 38789
+1651743243633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651743309020	Marionette	INFO	Stopped listening on port 38789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651743310923	Marionette	INFO	Stopped listening on port 44625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651743312692	Marionette	INFO	Stopped listening on port 35251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651743402321	geckodriver	INFO	Listening on 127.0.0.1:37805
+1651743402325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee92BTX"
+1651743402957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee92BTX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39507/devtools/browser/ebb929b6-25fb-4d43-b9ab-c01cea453fdc
+1651743404168	Marionette	INFO	Listening on port 34413
+Read port: 34413
+1651743404239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651743411343	Marionette	INFO	Stopped listening on port 34413
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
